@@ -1,3 +1,4 @@
 test.c
 libnetc.a
 netc/net.o
+test
