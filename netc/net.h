@@ -8,4 +8,6 @@ struct NetServer {
 
 struct NetServer initNetServer(int port, char*ip);
 
+void listenHTTP(struct NetServer server);
+
 #endif
