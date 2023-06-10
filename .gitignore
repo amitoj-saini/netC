@@ -2,3 +2,5 @@ test.c
 libnetc.a
 netc/net.o
 test
+t.c
+a.out
